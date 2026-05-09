@@ -1,0 +1,10 @@
+do ćwiczenia 1 - pomoc
+PT i Switch		https://youtu.be/lqI5ZapkT1Y
+PT i Router		https://youtu.be/Xgx2Sitmb2A
+
+Adresacja IP cz1	https://youtu.be/pyhWQK5u0nY
+Adresacja IP cz2	https://youtu.be/LFmNUi1XGYY
+
+Protokoły 		https://youtu.be/iy5GLT9MZBY
+Warstwa Fizyczna	https://youtu.be/97ShlR6KH_c
+Warstwa Fizyczna PT	https://youtu.be/7QenOVhgKFk
