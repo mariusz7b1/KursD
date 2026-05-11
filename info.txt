@@ -1,0 +1,10 @@
+1.
+Materiały do kursu.
+https://github.com/mariusz7b1/KursD
+2. 
+Download Packet Tracer
+https://www.netacad.com/resources/lab-downloads
+
+-ALTERNATYWNIE
+https://mojekontostorage.blob.core.windows.net/publiczny/CiscoPacketTracer_900_win_64bit.exe
+
