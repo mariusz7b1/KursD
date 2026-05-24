@@ -1,0 +1,10 @@
+Mamy do  dyspozycji się 10.64.64.0/20
+Podziel te sieć aby spełnić następujące wymagania co do pojemności sieci 
+N1  1900 komputerów 
+N2  900  komputerów 
+N3  200  komputerów 
+N4  180  komputerów 
+N5  140  komputerów 
+N6  70   komputerów
+N7  40   komputerów
+N8  35   komputerów
