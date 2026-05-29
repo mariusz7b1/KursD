@@ -1,0 +1,7 @@
+kopiowanie pliku startowego na serwer TFTP i z powrotem
+kopiowanie na serwer TFTP
+copy startup-config tftp:
+
+kopiowanie z serwer TFTP do sprzętu 
+copy tftp: startup-config 
+
